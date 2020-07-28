@@ -1,0 +1,107 @@
+#user-choise{
+    position: relative;
+    left: 440px;   
+}
+.btn-large {
+    margin :0px 3px 0px 3px;
+    font-size: 30px; 
+}
+#user{
+    position: relative;
+    font-size: 50px;
+    font-weight: 600;
+    left: 40px;
+    top: 60px;
+}
+#com{
+    position: relative;
+    font-size: 50px;
+    font-weight: 600;
+    margin :10px;
+    left: 970px;
+    bottom: 70px;
+}
+#scr{
+    position: relative;
+    font-size: 60px;
+    font-weight: 600;
+    margin :10px;
+    right: 490px;
+}
+
+#batOrBall{
+    font-size: 50px;
+    font-weight: 400;
+    margin :20px;
+}
+
+.red-glow{
+    color: crimson;
+    transition: 1s;
+}
+
+#target{
+    font-size: 50px;
+    font-weight: 600;
+    margin :10px;
+}
+
+.green-glow{
+    color: green;
+    transition: 1s;
+}
+
+.yellow-glow{
+    color:indigo;
+    transition: 1s;
+}
+
+#von{
+    font-size: 50px;
+}
+
+body{
+    background-color:whitesmoke;
+}
+
+#ref{
+    position: relative;
+    top: 15px;
+    left:100px;
+}
+
+#icon{
+    position: relative;
+    bottom: 8px;
+}
+
+.out{
+    position: relative;
+    left:450px;
+    transition: 1s;
+}
+
+.cen{
+    position: relative;
+    left: 20px;
+    transition: 1s;
+}
+
+.upos{
+    position: relative;
+    right: 490px;
+    transition: 1s;
+}
+#up{
+    position: absolute;
+    font-size: 60px;
+    left: 200px;
+    top: 150px;
+}
+
+#cp{
+    position: absolute;
+    font-size: 60px;
+    right: 200px;
+    top: 150px;
+}
