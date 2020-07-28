@@ -1,6 +1,5 @@
-# HAND-CRICKET-GAME-
+# Hand Cricket Game Demonstration
 ![20200728_213312](https://user-images.githubusercontent.com/62868878/88694276-f0a7b180-d11d-11ea-9e62-100a8361bfd6.gif)
-
 
 # Home Page
 ![image](https://user-images.githubusercontent.com/62868878/88688698-4167dc00-d117-11ea-94a9-902f6d9afb04.png)
